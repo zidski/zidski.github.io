@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: zidski.github.io
-Token: d2884b8966d54475547bb09898186069192d0631a89cb3b383110bbcee97293c
